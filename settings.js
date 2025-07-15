@@ -26,7 +26,7 @@ module.exports = {
   TELEGRAM_BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || '',
   
    //Antidelete and Antiedit functionality, set true to enable and false to disable. (⚠️ This function consumes a lot of memory + storage, only enable if you have enough resources ⚠️)
-   ANTI_DELETE: process.env.ANTI_DELETE || 'false',
+   ANTI_DELETE: process.env.ANTI_DELETE || 'true',
   
   
   //⚠️ Premium users settings ⚠️
