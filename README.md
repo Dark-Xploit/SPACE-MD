@@ -1,21 +1,21 @@
-<h1 align="center"> 𝐒𝐏𝐀𝐂𝐄 𝐌𝐃 </h1>
+<h1 align="center"> 𝐒𝐊𝐘𝐏𝐄𝐑 𝐌𝐃 </h1>
 
 <p align="center">
-  <a href="https://github.com/Dark-Xploit/SPACE-MD">
-    <img alt="SPACE-MD docs" height="350" src="https://files.catbox.moe/ia1mgm.jpg">
+  <a href="https://github.com/Dark-Xploit/SKYPER-MD">
+    <img alt="SKYPER-MD docs" height="350" src="https://files.catbox.moe/ia1mgm.jpg">
   </a>
 </p>
     
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/SPACE-MD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/2005101"><img title="Author" src="https://img.shields.io/badge/SKYPER-MD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
 <p align="center">
     <strong>1. FORK REPOSITORY</strong>
   <br>
-    <a href="https://github.com/Dark-Xploit/SPACE-MD/fork" target="_blank">
+    <a href="https://github.com/Dark-Xploit/SKYREPO/fork" target="_blank">
         <img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"/>
     </a>
 </p>
@@ -31,7 +31,7 @@
 <p align="center">
     <strong>3. DEPLOY TO HEROKU</strong>
     <br>
-    <a href="https://dashboard.heroku.com/new?template=https://github.com/Dark-Xploit/SPACE-MD" target="_blank">
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/Dark-Xploit/SKYPER-MD" target="_blank">
         <img alt="Deploy to heroku" src="https://img.shields.io/badge/Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple"/>
     </a>
 </p>
@@ -39,7 +39,7 @@
 <p align="center">
     <strong>4. DOWNLOAD BOT ZIP</strong>
     <br>
-    <a href="https://codeload.github.com/Dark-Xploit/SPACE-MD/zip/refs/heads/main" target="_blank">
+    <a href="https://codeload.github.com/Dark-Xploit/SKYPER-MD/zip/refs/heads/main" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/Download-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
