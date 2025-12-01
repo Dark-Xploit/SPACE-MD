@@ -11,7 +11,7 @@ module.exports = {
   PORT: parseInt(process.env.PORT) || 2605,
   
   //Enter your Github username here (Compulsory unless you have a valid premium key)
-  GITHUB_USERNAME: process.env.GITHUB_USERNAME || '',
+  GITHUB_USERNAME: process.env.GITHUB_USERNAME || 'mwasdaym',
   
   //Enter your desired bot password here. Users will be asked for this password when they try to connect to your bot via telegram or web
   //Must be numbers only and a total of 8 digits
@@ -23,7 +23,7 @@ module.exports = {
   ADMIN_PASSWORD: parseInt(process.env.BOT_PASSWORD) || 11223344,
   
   //Enter telegram bot token for interaction with this bot via telegram (optional)
-  TELEGRAM_BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || '',
+  TELEGRAM_BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || '8279972904:AAHaopD19qpHnkVMdUbRp9fpSFhzqteNsqg',
   
    //Antidelete and Antiedit functionality, set true to enable and false to disable. (⚠️ This function consumes a lot of memory + storage, only enable if you have enough resources ⚠️)
    ANTI_DELETE: process.env.ANTI_DELETE || 'false',
